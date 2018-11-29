@@ -7,6 +7,7 @@ name: My name
 
 # Short bio or description (displayed in the header)
 description: This is a description
+author: Elias Llampi
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/16041698?s=460&v=4
@@ -84,3 +85,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+theme:minima
